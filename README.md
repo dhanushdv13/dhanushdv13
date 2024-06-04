@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhanushdv13
+- 👋 Hi, I’m @dhanushdv
 - 👀 I’m interested in ...programing
 - 🌱 I’m currently learning ...c programing 
 - 💞️ I’m looking to collaborate on ...comunity
